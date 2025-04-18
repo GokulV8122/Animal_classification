@@ -1,8 +1,7 @@
 numpy
 pandas
+streamlit
 os
+gdown
 tensorflow
 matplotlib
-streamlit
-seaborn
-sklearn
