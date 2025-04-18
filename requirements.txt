@@ -1,7 +1,8 @@
+tensorflow
+opencv-python-headless
+matplotlib
 numpy
 pandas
+tqdm
 streamlit
-os
 gdown
-tensorflow
-matplotlib
